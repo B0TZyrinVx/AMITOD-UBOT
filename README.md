@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/913eb8253a4bd78cd65b6.jpg">
+  <img src="">
 <h2 align="center">
    Deploy ZyrinVxBot
 </h2>
